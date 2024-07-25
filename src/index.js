@@ -45,7 +45,7 @@ export const theme = createTheme({
     MuiButton: {
       styleOverrides: {
         root: {
-          borderRadius: "8px",
+          borderRadius: "5px",
           textTransform: "none",
         },
         contained: {
@@ -56,7 +56,7 @@ export const theme = createTheme({
     MuiContainer: {
       styleOverrides: {
         root: {
-          width: "90%",
+          width: "85%",
         },
       },
     },
